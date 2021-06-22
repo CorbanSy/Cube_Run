@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637592974003185860
-    m_Hash: 2003956774
+      ticks: 637598413318506562
+    m_Hash: 248146433
   m_LockFileStatus:
     m_FilePath: C:/Users/corba/OneDrive/Desktop/GitHub/Cube_Run/Unity/New Unity Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637592974112389081
-    m_Hash: 2889151785
+      ticks: 637598413318506562
+    m_Hash: 2564801494
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
